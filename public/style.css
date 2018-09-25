@@ -1,0 +1,20 @@
+html, body {
+  margin: 0;
+  padding: 5;
+
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  text-shadow: 1px 1px 0px #000;
+  text-decoration-style: wavy;
+  text-overflow: clip;
+  color: green;
+  background: url("https://tfv.goodblogscdn.com/sites/www.theflamingvegan.com/post_images/cropped/4839.jpg?v=1473788164")
+  no-repeat center center;
+  background-size: cover;
+  height: 800px;
+  text-align: center;
+}
